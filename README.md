@@ -1,7 +1,7 @@
 💓 Heart Disease Diagnostic System (AI-Driven)
 An end-to-end Machine Learning and Deep Learning project designed to predict cardiovascular risks. This system utilizes a Dual-Core Inference Engine, allowing users to switch between high-performance Gradient Boosting and Neural Network backends.
 
-**🚀 [Live Demo on Streamlit Cloud]([https://your-app-link.streamlit.app/](https://heartdiseasepredictor-jda2oaldj3jjgt89xdtzd5.streamlit.app/))**
+**🚀 [Live Demo on Streamlit Cloud](https://heartdiseasepredictor-jda2oaldj3jjgt89xdtzd5.streamlit.app/)**
 
 🧠 Technical Innovations
 Multi-Backend Intelligence: Integrated XGBoost (for tabular precision) and PyTorch (for non-linear deep learning patterns).
